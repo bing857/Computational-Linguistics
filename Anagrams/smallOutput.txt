@@ -1,0 +1,48 @@
+Anagrams of SIZE 2
+Anagrams of LENGTH 8
+eternity entirety
+silences licenses
+Anagrams of LENGTH 9
+education cautioned
+logarithm algorithm
+organised grandiose
+teenagers generates
+triangles integrals
+unnoticed continued
+Anagrams of LENGTH 10
+supersonic percussion
+tapestries striptease
+Anagrams of LENGTH 11
+oscillation colonialist
+
+
+Anagrams of SIZE 3
+Anagrams of LENGTH 14
+conservation's conversation's conversations'
+recommednation recommendation recommnedation
+Anagrams of LENGTH 15
+adiministration adminisitration administratiion
+admininstration admninistration adniminstration
+enterpreneurial entrepreneurial entreprenuerial
+greenish-yellow yellow-greenish yellowish-green
+parliamentarins parliamentrians parlimentarians
+psychoanalyst's psychoanalysts' pyschoanalyst's
+unconsitutional unconstituional unconstiutional
+Anagrams of LENGTH 16
+administration's administrations' adminsitration's
+cold-temperature computer-altered computer-related
+creutzfeld-jakob jakob-creutzfeld kreutzfeld-jacob
+peitermaritzburg pietermaritzburg pietermartizburg
+Anagrams of LENGTH 17
+director-generals directors-general general-creditors
+
+
+
+
+
+
+OUTPUT REPORT: 
+
+   8   9   10  11  14  15  16  17
+2   2   6   2   1   0   0   0   0
+3   0   0   0   0   2   7   4   1
